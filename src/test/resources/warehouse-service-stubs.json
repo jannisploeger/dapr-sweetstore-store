@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/inventory"
+  },
+  "response": {
+    "status": 200,
+    "body": "[{\"name\":\"Chocolate\",\"price\":1.5,\"quantity\":100},{\"name\":\"Lollypop\",\"price\":0.5,\"quantity\":1000},{\"name\":\"Gummi\",\"price\":0.2,\"quantity\":10000}]"
+  }
+}

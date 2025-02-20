@@ -14,7 +14,7 @@ buildNumber.properties
 
 ### Vaadin ###
 node_modules/
-*/frontend/generated/*
+**/frontend/generated/*
 frontend/index.html
 vite.generated.ts
 *.generated.js
